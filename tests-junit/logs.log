@@ -1,0 +1,136 @@
+2021-01-12 15:16:42,596 INFO SampleTest [main] Я информационный лог
+2021-01-12 15:16:52,954 INFO SampleTest [main] Я информационный лог
+2021-01-12 15:32:16,974 WARN SampleTest [main] Я Warning  лог
+2021-01-12 15:33:11,675 ERROR SampleTest [main] Я Error  лог
+2021-01-12 15:49:29,261 INFO SampleTest [main] Я информационный лог
+2021-01-12 15:49:29,263 WARN SampleTest [main] Я Warning  лог
+2021-01-12 15:49:29,264 ERROR SampleTest [main] Я Error  лог
+2021-01-12 17:28:33,378 INFO SampleTest [main] Я информационный лог
+2021-01-12 17:28:54,041 INFO SampleTest [main] Я информационный лог
+2021-01-12 17:29:27,348 INFO SampleTest [main] Я информационный лог
+2021-01-12 17:37:07,856 INFO SampleTest [main] Я информационный лог
+2021-01-13 10:32:30,137 INFO SampleTest [main] Драйвер поднят
+2021-01-13 10:32:34,025 INFO SampleTest [main] Открыта страница отус
+2021-01-13 10:32:34,775 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 15:49:51,963 INFO SampleTest [main] Драйвер поднят
+2021-01-19 15:49:57,020 INFO SampleTest [main] Открыта страница отус
+2021-01-19 15:49:57,768 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 16:12:02,550 INFO SampleTest [main] Драйвер поднят
+2021-01-19 16:12:06,019 INFO SampleTest [main] Открыта страница отус
+2021-01-19 16:12:06,815 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 16:13:53,617 INFO SampleTest [main] Драйвер поднят
+2021-01-19 16:13:58,652 INFO SampleTest [main] Открыта страница отус
+2021-01-19 16:13:59,814 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 16:18:00,581 INFO SampleTest [main] Драйвер поднят
+2021-01-19 16:18:05,491 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1611062282.6925924; expires=Пт, 19 янв 2024 04:18:01 MSK; path=/; domain=otus.ru, sessionid=iiouo0ajesdl4nw2tv5j6s5we62jcrax; expires=Пн, 19 апр 2021 04:18:01 MSK; path=/; domain=otus.ru, _ym_d=1611062283; expires=Ср, 19 янв 2022 04:18:03 MSK; path=/; domain=.otus.ru;secure;, oid=fc97dd2ea741d727a45d91078429035b; expires=Пт, 19 янв 2024 04:18:01 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1673216927.1611062283; expires=Ср, 20 янв 2021 04:18:03 MSK; path=/; domain=.otus.ru, visits-count=1; expires=Пт, 19 янв 2024 04:18:01 MSK; path=/; domain=otus.ru, _ym_uid=1611062283437280485; expires=Ср, 19 янв 2022 04:18:03 MSK; path=/; domain=.otus.ru;secure;, _ym_visorc_34531570=w; expires=Вт, 19 янв 2021 04:48:03 MSK; path=/; domain=.otus.ru;secure;, _ym_isad=2; expires=Ср, 20 янв 2021 12:18:04 MSK; path=/; domain=.otus.ru;secure;, _ga=GA1.2.1698208230.1611062283; expires=Чт, 19 янв 2023 04:18:03 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1611062285085.1176077420; expires=Пн, 19 апр 2021 04:18:05 MSK; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2021-01-19 16:18:06,244 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 16:20:22,466 INFO SampleTest [main] Драйвер поднят
+2021-01-19 16:20:27,698 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1611062424.696558; expires=Пт, 19 янв 2024 04:20:23 MSK; path=/; domain=otus.ru, sessionid=ziab372rwiqhgtk544u87n8sognzigdf; expires=Пн, 19 апр 2021 04:20:23 MSK; path=/; domain=otus.ru, _ym_d=1611062426; expires=Ср, 19 янв 2022 04:20:25 MSK; path=/; domain=.otus.ru;secure;, oid=185c898fbc4fb9f9cd103fbbb71bb98e; expires=Пт, 19 янв 2024 04:20:23 MSK; path=/; domain=.otus.ru, _gid=GA1.2.704987652.1611062425; expires=Ср, 20 янв 2021 04:20:25 MSK; path=/; domain=.otus.ru, visits-count=1; expires=Пт, 19 янв 2024 04:20:23 MSK; path=/; domain=otus.ru, _ym_uid=1611062426980671156; expires=Ср, 19 янв 2022 04:20:25 MSK; path=/; domain=.otus.ru;secure;, _ym_visorc_34531570=w; expires=Вт, 19 янв 2021 04:50:25 MSK; path=/; domain=.otus.ru;secure;, _ym_isad=2; expires=Ср, 20 янв 2021 12:20:25 MSK; path=/; domain=.otus.ru;secure;, _ga=GA1.2.1613694562.1611062425; expires=Чт, 19 янв 2023 04:20:25 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1611062427297.1171018010; expires=Пн, 19 апр 2021 04:20:27 MSK; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2021-01-19 16:20:27,716 INFO SampleTest [main] Otus1=Value1; path=/; domain=otus.ru;secure;
+2021-01-19 16:20:28,446 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 16:22:59,796 INFO SampleTest [main] Драйвер поднят
+2021-01-19 16:23:03,885 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1611062582.4252946; expires=Пт, 19 янв 2024 04:23:01 MSK; path=/; domain=otus.ru, sessionid=sqmmp3yltynp9clbqafhszthmb5etfiu; expires=Пн, 19 апр 2021 04:23:01 MSK; path=/; domain=otus.ru, _ym_d=1611062583; expires=Ср, 19 янв 2022 04:23:03 MSK; path=/; domain=.otus.ru;secure;, oid=deac9bd0dcae1eb566e010c25d4a0b90; expires=Пт, 19 янв 2024 04:23:01 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=Вт, 19 янв 2021 04:53:03 MSK; path=/; domain=.otus.ru;secure;, _gid=GA1.2.53564864.1611062583; expires=Ср, 20 янв 2021 04:23:03 MSK; path=/; domain=.otus.ru, visits-count=1; expires=Пт, 19 янв 2024 04:23:01 MSK; path=/; domain=otus.ru, _ym_uid=1611062583330400089; expires=Ср, 19 янв 2022 04:23:03 MSK; path=/; domain=.otus.ru;secure;, _ym_isad=2; expires=Ср, 20 янв 2021 12:23:03 MSK; path=/; domain=.otus.ru;secure;, _ga=GA1.2.1567351856.1611062583; expires=Чт, 19 янв 2023 04:23:03 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1611062583442.2085345626; expires=Пн, 19 апр 2021 04:23:03 MSK; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2021-01-19 16:23:03,924 INFO SampleTest [main] Otus1=Value1; path=/; domain=otus.ru;secure;
+2021-01-19 16:23:05,076 INFO SampleTest [main] []
+2021-01-19 16:23:05,828 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 16:24:08,420 INFO SampleTest [main] Драйвер поднят
+2021-01-19 16:24:13,321 INFO SampleTest [main] [Otus2=Value2; path=/; domain=otus.ru;secure;, Otus1=Value1; path=/; domain=otus.ru;secure;, first-visit=1611062650.181318; expires=Пт, 19 янв 2024 04:24:09 MSK; path=/; domain=otus.ru, sessionid=4hniq508gpbg4br1gu74gjoftk3mkvvk; expires=Пн, 19 апр 2021 04:24:09 MSK; path=/; domain=otus.ru, _ym_d=1611062651; expires=Ср, 19 янв 2022 04:24:10 MSK; path=/; domain=.otus.ru;secure;, oid=780241bfb313db8403eea01323286224; expires=Пт, 19 янв 2024 04:24:09 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1503319994.1611062651; expires=Ср, 20 янв 2021 04:24:11 MSK; path=/; domain=.otus.ru, visits-count=1; expires=Пт, 19 янв 2024 04:24:09 MSK; path=/; domain=otus.ru, _ym_uid=1611062651599397379; expires=Ср, 19 янв 2022 04:24:10 MSK; path=/; domain=.otus.ru;secure;, _ym_visorc_34531570=w; expires=Вт, 19 янв 2021 04:54:11 MSK; path=/; domain=.otus.ru;secure;, _ym_isad=2; expires=Ср, 20 янв 2021 12:24:12 MSK; path=/; domain=.otus.ru;secure;, _ga=GA1.2.839623397.1611062651; expires=Чт, 19 янв 2023 04:24:11 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1611062652903.37441104; expires=Пн, 19 апр 2021 04:24:13 MSK; path=/; domain=.otus.ru, Otus4=Value4; path=/; domain=otus.ru;secure;, Otus3=Value3; path=/; domain=otus.ru;secure;]
+2021-01-19 16:24:13,337 INFO SampleTest [main] Otus1=Value1; path=/; domain=otus.ru;secure;
+2021-01-19 16:24:15,075 INFO SampleTest [main] 0
+2021-01-19 16:24:15,807 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 17:06:26,864 INFO SampleTest [main] Драйвер поднят
+2021-01-19 17:06:35,436 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 17:08:14,544 INFO SampleTest [main] Драйвер поднят
+2021-01-19 17:08:39,029 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 17:08:50,331 INFO SampleTest [main] Драйвер поднят
+2021-01-19 17:08:59,169 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 17:35:45,109 INFO SampleTest [main] Драйвер поднят
+2021-01-19 17:35:52,317 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 17:38:55,058 INFO SampleTest [main] Драйвер поднят
+2021-01-19 17:39:02,577 INFO SampleTest [main] (10, 10)
+2021-01-19 17:39:03,290 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-19 17:51:57,331 INFO SampleTest [main] Драйвер поднят
+2021-01-19 17:52:03,943 INFO SampleTest [main] (10, 10)
+2021-01-19 17:52:05,247 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-22 12:46:20,846 INFO SampleTest [main] Драйвер поднят
+2021-01-22 12:46:26,488 INFO SampleTest [main] Открыта страница отус
+2021-01-22 12:46:27,364 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-22 12:47:03,398 INFO SampleTest [main] Драйвер поднят
+2021-01-22 12:47:08,631 INFO SampleTest [main] Открыта страница отус
+2021-01-22 12:47:09,466 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-22 12:47:53,087 INFO SampleTest [main] Драйвер поднят
+2021-01-22 12:49:04,538 INFO SampleTest [main] Открыта страница отус
+2021-01-22 12:49:59,799 INFO SampleTest [main] Драйвер поднят
+2021-01-22 12:50:05,898 INFO SampleTest [main] Открыта страница яндекс
+2021-01-22 12:50:06,702 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-22 12:51:56,810 INFO SampleTest [main] Драйвер поднят
+2021-01-22 12:52:01,075 INFO SampleTest [main] Открыта страница теле2
+2021-01-22 12:52:01,769 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 13:47:43,746 INFO SampleTest [main] Драйвер поднят
+2021-01-25 13:47:47,746 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 13:47:54,035 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 13:48:43,639 INFO SampleTest [main] Драйвер поднят
+2021-01-25 13:48:48,218 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 13:49:46,280 INFO SampleTest [main] Драйвер поднят
+2021-01-25 13:49:51,402 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 13:51:59,321 INFO SampleTest [main] Драйвер поднят
+2021-01-25 13:52:04,577 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 13:59:08,637 INFO SampleTest [main] Драйвер поднят
+2021-01-25 13:59:13,159 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 14:20:19,412 INFO SampleTest [main] Драйвер поднят
+2021-01-25 14:20:23,445 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:25:14,217 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:25:18,011 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:26:38,491 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:27:59,895 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:34:59,124 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:35:04,344 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:36:05,900 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:36:11,081 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:37:06,939 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:37:11,631 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:37:37,072 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:37:41,865 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:39:05,739 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:39:52,805 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:41:44,598 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:41:49,326 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 15:42:37,546 INFO SampleTest [main] Драйвер поднят
+2021-01-25 15:42:42,307 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 16:02:55,268 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:02:59,339 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 16:03:01,069 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:03:34,118 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:03:38,228 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 16:03:41,356 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:04:51,141 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:04:55,111 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 16:04:56,241 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:05:21,425 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:05:27,487 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 16:14:59,818 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:15:06,751 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:15:49,037 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:15:55,082 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:17:14,611 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:17:21,112 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:17:58,949 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:18:05,761 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 16:37:25,187 INFO SampleTest [main] Драйвер поднят
+2021-01-25 16:37:31,384 INFO SampleTest [main] Открыта страница яндекс
+2021-01-25 16:37:32,569 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 17:09:15,732 INFO SampleTest [main] Драйвер поднят
+2021-01-25 17:09:21,464 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 17:10:31,421 INFO SampleTest [main] Драйвер поднят
+2021-01-25 17:10:37,808 INFO SampleTest [main] Открыта страница яндекс
+2021-01-25 17:10:38,764 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 17:11:30,099 INFO SampleTest [main] Драйвер поднят
+2021-01-25 17:11:36,086 INFO SampleTest [main] Открыта страница яндекс
+2021-01-25 17:11:37,137 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 17:13:32,909 INFO SampleTest [main] Драйвер поднят
+2021-01-25 17:13:39,335 INFO SampleTest [main] Открыта страница яндекс
+2021-01-25 17:13:40,294 INFO SampleTest [main] Драйвер успешно закрыт
+2021-01-25 17:16:59,643 INFO SampleTest [main] Драйвер поднят
+2021-01-25 17:17:04,031 INFO SampleTest [main] Открыта страница теле2
+2021-01-25 17:17:05,458 INFO SampleTest [main] Поиск номеров на 97
+2021-01-25 17:17:06,183 INFO SampleTest [main] Драйвер успешно закрыт
